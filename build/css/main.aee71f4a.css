@@ -1,0 +1,13 @@
+/*!**********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/Components/Counter.scss ***!
+  \**********************************************************************************************************************/
+button {
+  padding: 20px;
+  color: green;
+}
+
+h1 {
+  color: green;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL21haW4uYWVlNzFmNGEuY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBQ0U7RUFDQTtBQUNGOztBQUNBO0VBQ0U7QUFFRixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcHJvamVjdC1vbi1rdXJzLy4vc3JjL0NvbXBvbmVudHMvQ291bnRlci5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImJ1dHRvbiB7XHJcbiAgcGFkZGluZzogMjBweDtcclxuICBjb2xvcjogZ3JlZW47XHJcbn1cclxuaDEge1xyXG4gIGNvbG9yOiBncmVlbjtcclxufVxyXG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

@@ -1,2 +1,8 @@
+import Counter from "./Components/Counter";
 import { render } from "react-dom";
-render(<div>fsdfsdf</div>, document.getElementById("root"));
+render(
+  <div>
+    <Counter />
+  </div>,
+  document.getElementById("root")
+);
